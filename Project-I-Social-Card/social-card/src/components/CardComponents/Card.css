@@ -1,1 +1,24 @@
 /* All styles for your Card Components live here */
+.banner-img {
+    width: 600px;
+    border-radius: 5px 5px 0 0;
+}
+
+.card-container {
+    margin-left: 70px;
+    width: 600px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.card-content {
+    padding: 0 20px;;
+}
+
+.card-content p {
+    font-size: 1.8rem;
+}
+
+.card-content .card-footer {
+    color: gray;
+}
