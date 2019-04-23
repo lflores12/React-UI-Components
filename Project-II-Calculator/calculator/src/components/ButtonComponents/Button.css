@@ -1,0 +1,41 @@
+.button-container {
+    height: 100px;
+    display: flex;
+}
+
+.twoButton-section {
+    width: 75%;
+    border: 1px solid gray;
+}
+
+.red-button {
+    background: darkred;
+    border: 1px solid gray;
+    font-weight: 200;
+    color: white;
+}
+
+.twoButton-text {
+    text-align: center;
+    line-height: 100px;
+    font-size: 50px;
+    font-weight: 200;
+    background: white;
+}
+
+.number-button {
+    text-align: center;
+    line-height: 100px;
+    font-size: 50px;
+    width: 25%;
+    font-weight: 200;
+}
+
+.num-button {
+    text-align: center;
+    line-height: 100px;
+    font-size: 50px;
+    width: 25%;
+    background: white;
+    font-weight: 200;
+}
